@@ -18,4 +18,3 @@ databases
 python-dotenv
 apscheduler
 packaging
-gunicorn
